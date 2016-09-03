@@ -6,11 +6,11 @@ public class TestConfig {
 
 	protected int cash;
 
-	protected int type;
+	protected TestType type;
 
 	protected String desc;
 
-	protected int weight;
+	protected float weight;
 
 	public int getId(){
 		 return id;
@@ -28,11 +28,11 @@ public class TestConfig {
 		 this.cash=cash;
 	}
 
-	public int getType(){
+	public TestType getType(){
 		 return type;
 	}
 
-	public void setType(int type){
+	public void setType(TestType type){
 		 this.type=type;
 	}
 
@@ -44,11 +44,11 @@ public class TestConfig {
 		 this.desc=desc;
 	}
 
-	public int getWeight(){
+	public float getWeight(){
 		 return weight;
 	}
 
-	public void setWeight(int weight){
+	public void setWeight(float weight){
 		 this.weight=weight;
 	}
 

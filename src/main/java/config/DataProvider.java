@@ -19,7 +19,7 @@ public class DataProvider {
 	private static final String JSON_PATH;
 	
 	static {
-		JSON_PATH = System.getProperty("jsonPath", "data");
+		JSON_PATH = System.getProperty("jsonPath", "json");
 	}
 	
 	/**

@@ -1,1 +1,107 @@
-{}
+{
+  "1": {
+    "id": 1,
+    "cash": 1,
+    "type": "TEST2",
+    "desc": "辣椒水的发生1",
+    "weight": 1.99
+  },
+  "2": {
+    "id": 2,
+    "cash": 3,
+    "type": "TEST2",
+    "desc": "辣椒水的发生2",
+    "weight": 2.0
+  },
+  "3": {
+    "id": 3,
+    "cash": 5,
+    "type": "TEST2",
+    "desc": "辣椒水的发生3",
+    "weight": 2.01
+  },
+  "4": {
+    "id": 4,
+    "cash": 7,
+    "type": "TEST2",
+    "desc": "辣椒水的发生4",
+    "weight": 2.02
+  },
+  "5": {
+    "id": 5,
+    "cash": 9,
+    "type": "TEST3",
+    "desc": "辣椒水的发生5",
+    "weight": 2.03
+  },
+  "6": {
+    "id": 6,
+    "cash": 11,
+    "type": "TEST3",
+    "desc": "辣椒水的发生6",
+    "weight": 2.04
+  },
+  "7": {
+    "id": 7,
+    "cash": 13,
+    "type": "TEST3",
+    "desc": "辣椒水的发生7",
+    "weight": 2.05
+  },
+  "8": {
+    "id": 8,
+    "cash": 15,
+    "type": "TEST3",
+    "desc": "辣椒水的发生8",
+    "weight": 2.06
+  },
+  "9": {
+    "id": 9,
+    "cash": 17,
+    "type": "TEST3",
+    "desc": "辣椒水的发生9",
+    "weight": 2.07
+  },
+  "10": {
+    "id": 10,
+    "cash": 19,
+    "type": "TEST3",
+    "desc": "辣椒水的发生10",
+    "weight": 2.08
+  },
+  "11": {
+    "id": 11,
+    "cash": 21,
+    "type": "TEST3",
+    "desc": "辣椒水的发生11",
+    "weight": 2.09
+  },
+  "12": {
+    "id": 12,
+    "cash": 23,
+    "type": "TEST4",
+    "desc": "辣椒水的发生12",
+    "weight": 2.1
+  },
+  "13": {
+    "id": 13,
+    "cash": 25,
+    "type": "TEST4",
+    "desc": "辣椒水的发生13",
+    "weight": 2.11
+  },
+  "14": {
+    "id": 14,
+    "cash": 27,
+    "type": "TEST4",
+    "desc": "辣椒水的发生14",
+    "weight": 2.12
+  },
+  "15": {
+    "id": 15,
+    "cash": 29,
+    "type": "TEST4",
+    "desc": "辣椒水的发生15",
+    "weight": 2.13
+  }
+}
